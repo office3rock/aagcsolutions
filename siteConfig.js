@@ -3,21 +3,21 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "aagcsolutions.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "aagcsolutions", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "aagcsolutions.com", // This allows an alternative site description for meta data for pages.
+    "utnupes", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "aagcsolutions.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "aagcsolutions", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "aagcsolutions.com",
+    title: "aagcsolutions",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -49,7 +49,7 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://aagcsolutions.com/contact",
       },
-     
+      
     ],
   },
   socialLinks: {
@@ -66,13 +66,13 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact Us",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "aagcsolutions.com",
+    title: "aagcsolutions",
     description:
-      "aagcsolutions.com",
+      "aagcsolutions",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "aagcsolutions.com",
+    title: "aagcsolutions",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "aagcsolutions.com",
+  siteTitle: "aagcsolutions",
   siteDescription:
-    "aagcsolutions.com",
+    "aagcsolutions",
   language: "he",
   logoUrl: "",
   iconUrl: "",
