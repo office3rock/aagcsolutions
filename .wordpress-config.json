@@ -1,5 +1,5 @@
 {
-  "baseUrl": "aagcsolutions.ussl.co.il",
+  "baseUrl": "https://reshet.ussl.app/aagcsolutions",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
