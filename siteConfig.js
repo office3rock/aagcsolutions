@@ -70,7 +70,7 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "אילון אוריאל",
+    title: "aagcsolutions",
     description:
       "אילון אוריאל מומחה כלכלי, יועץ עסקי. אקטואר מוביל. באתר זה כתבות כלכליות, שיווקיות. מידע על עסקים ואנשים מובילים בתחומם, בעלי מקצועות חופשיים"",
   },
@@ -150,5 +150,6 @@ module.exports = {
 
   },
 };
+
 
 
