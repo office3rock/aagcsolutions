@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "aagcsolutions",
+    title: "אילון אוריאל",
     description:
-      "aagcsolutions",
+      "אילון אוריאל מומחה כלכלי, יועץ עסקי. אקטואר מוביל. באתר זה כתבות כלכליות, שיווקיות. מידע על עסקים ואנשים מובילים בתחומם, בעלי מקצועות חופשיים"",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "aagcsolutions",
+    title: "אילון אוריאל",
     description:
       "Lightning fast, built on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "aagcsolutions",
+  siteTitle: "אילון אוריאל",
   siteDescription:
-    "aagcsolutions",
+    "אילון אוריאל מומחה כלכלי, יועץ עסקי. אקטואר מוביל. באתר זה כתבות כלכליות, שיווקיות. מידע על עסקים ואנשים מובילים בתחומם, בעלי מקצועות חופשיים"",
   language: "he",
   logoUrl: "",
   iconUrl: "",
@@ -150,3 +150,4 @@ module.exports = {
 
   },
 };
+
