@@ -3,21 +3,21 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "aagcsolutions", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "אילון אוריאל", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "utnupes", // This allows an alternative site description for meta data for pages.
+    "אילון אוריאל מומחה כלכלי, יועץ עסקי. אקטואר מוביל. באתר זה כתבות כלכליות, שיווקיות. מידע על עסקים ואנשים מובילים בתחומם, בעלי מקצועות חופשיים", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "aagcsolutions", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "אילון אוריאל", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://reshet.jetdomains.co.il/aagcsolutions",
   subscribeWidget: {
     visible: false,
-    title: "aagcsolutions",
+    title: "אילון אוריאל",
     helpText: "Keep following",
     successMessage: "Thank you The message was sent successfully",
   },
@@ -147,5 +147,6 @@ module.exports = {
         strategy: "selfHosted",
       },
     ],
+
   },
 };
