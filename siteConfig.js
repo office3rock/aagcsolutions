@@ -82,7 +82,7 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "אילון אוריאל",
+    title: "aagcsolutions",
     description:
       "Lightning fast, built on Gatsby.",
     imageUrl: "facebookImage.png",
@@ -150,4 +150,5 @@ module.exports = {
 
   },
 };
+
 
